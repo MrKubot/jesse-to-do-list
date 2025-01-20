@@ -23,4 +23,10 @@ GRANT ALL PRIVILEGES ON DATABASE jesse_db to jesse_user;
 ALTER DATABASE jesse_db OWNER TO jesse_user;
 \q
 
+
+
+https://visualstudio.microsoft.com/pl/visual-cpp-build-tools/
++ basic C++
+
+
 pip install TA-Lib
