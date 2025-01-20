@@ -41,4 +41,4 @@ cp .env.example .env
 
 python -m venv env
 .\env\Scripts\activate
-pip install jesse (time consuming)
+pip install jesse (time consuming / --use-deprecated=legacy-resolver)
