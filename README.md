@@ -41,4 +41,4 @@ cp .env.example .env
 
 python -m venv env
 .\env\Scripts\activate
-pip install jesse
+pip install jesse (time consuming)
