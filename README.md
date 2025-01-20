@@ -31,8 +31,9 @@ https://visualstudio.microsoft.com/pl/visual-cpp-build-tools/
 + basic C++
 
 
+https://github.com/ta-lib/ta-lib-python
 pip install TA-Lib
-
+PATH
 
 git clone https://github.com/jesse-ai/project-template my-bot
 cd my-bot
