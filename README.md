@@ -1,3 +1,6 @@
+GIT
+VS Code
+
 https://www.python.org/downloads/release/python-3100/
 check PATH - environment/zmienne środowiskowe
 
@@ -24,9 +27,18 @@ ALTER DATABASE jesse_db OWNER TO jesse_user;
 \q
 
 
-
 https://visualstudio.microsoft.com/pl/visual-cpp-build-tools/
 + basic C++
 
 
 pip install TA-Lib
+
+
+git clone https://github.com/jesse-ai/project-template my-bot
+cd my-bot
+# create a .env file by copying it from the template
+cp .env.example .env
+
+python -m venv env
+.\env\Scripts\activate
+pip install jesse
